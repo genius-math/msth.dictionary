@@ -1,9 +1,0 @@
-{
-  "name": "grid-overlay-pro",
-  "version": "1.0.0",
-  "private": true,
-  "description": "Grid Overlay Pro",
-  "scripts": {
-    "start": "echo Grid Overlay Pro"
-  }
-}
